@@ -10,4 +10,4 @@
 ------------
 
 ## ⚖️ Licença ##
-[MIT License](./LICENSE)
+[MIT License](../LICENSE)
