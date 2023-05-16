@@ -5,7 +5,7 @@
 
 ## ⛵ Navegação pelos projetos:
 - [adaptive-treshold](../adaptive-treshold)
-- [hsv-segmentation](hsv-segmentation)
+- [hsv-segmentation](../hsv-segmentation)
 - [lista-4](../lista-4)
 - \>mean-median-between-images
 
