@@ -3,7 +3,7 @@
 ## 📚 Descrição ##
 **Segmentando uma imagem a partir de cores utilizando o modelo HSV.**
 
-⛵ Navegação pelos projetos:
+## ⛵ Navegação pelos projetos:
 - [adaptive-treshold](../adaptive-treshold)
 - \>hsv-segmentation
 - [lista-4](../lista-4)
