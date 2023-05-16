@@ -3,7 +3,7 @@
 ## 📚 Descrição ##
 **Aplicando threshold adaptativo em imagens de parafusos.**
 
-⛵ Navegação pelos projetos:
+## ⛵ Navegação pelos projetos:
 - \>adaptive-treshold
 - [hsv-segmentation](../hsv-segmentation)
 - [lista-4](../lista-4)
