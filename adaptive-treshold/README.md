@@ -5,6 +5,7 @@
 
 ## ⛵ Navegação pelos projetos:
 - \>adaptive-treshold
+- [biggest-and-smallest-lego](../biggest-and-smallest-lego/)
 - [hsv-segmentation](../hsv-segmentation)
 - [lista-4](../lista-4)
 - [mean-median-between-images](../mean-median-between-images)
