@@ -1,12 +1,12 @@
-# tec434-biggest-and-smallest-lego
+# tec434-blue-square-detect
 
 ## 📚 Descrição ##
-**Identificando a maior e a menor peça de lego azul de uma imagem.**
+**Detectando o quadrado azul de uma imagem.**
 
 ## ⛵ Navegação pelos projetos:
 - [adaptive-treshold](../adaptive-treshold)
-- \>biggest-and-smallest-lego
-- [blue-square-detect](../blue-square-detect/)
+- [biggest-and-smallest-lego](../biggest-and-smallest-lego/)
+- \>blue-square-detect
 - [hsv-segmentation](../hsv-segmentation/)
 - [lista-4](../lista-4)
 - [mean-median-between-images](../mean-median-between-images)
