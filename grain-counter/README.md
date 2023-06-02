@@ -1,13 +1,13 @@
 # tec434-grain-counter
 
 ## 📚 Descrição ##
-**Contagem de grãos em uma imagem. **
+**Contagem de grãos em uma imagem.**
 
 ## ⛵ Navegação pelos projetos:
 - [adaptive-treshold](../adaptive-treshold)
 - [biggest-and-smallest-lego](../biggest-and-smallest-lego/)
 - [blue-square-detect](../blue-square-detect/)
-- /> grain-counter
+- \> grain-counter
 - [hsv-segmentation](../hsv-segmentation/)
 - [lista-4](../lista-4)
 - [mean-median-between-images](../mean-median-between-images)
