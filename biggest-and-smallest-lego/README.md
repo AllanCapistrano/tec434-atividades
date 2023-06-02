@@ -7,6 +7,7 @@
 - [adaptive-treshold](../adaptive-treshold)
 - \>biggest-and-smallest-lego
 - [blue-square-detect](../blue-square-detect/)
+- [grain-counter](../grain-counter/)
 - [hsv-segmentation](../hsv-segmentation/)
 - [lista-4](../lista-4)
 - [mean-median-between-images](../mean-median-between-images)
